@@ -9,5 +9,5 @@ Reselient Distributed Dataset
 
 # DAG
 Directed Acyclic Graph
-Recipe containing instructions on what to do in a stepwise fashion
-Procedural steps that are single directional.
+Recipe containing instructions on what to do in a stepwise fashion.
+Procedural steps that are single directional. When actions are performed, then only the recipe is being prepared i.e. then only all the instructions are executed.
